@@ -1,17 +1,17 @@
 {
   "site": {
-    "url": "https://gyoza.lxchapu.com",
-    "title": "Gyoza",
-    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
-    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "url": "https://astro-gyoza-nwz.pages.dev/",
+    "title": "Edward Justin",
+    "description": "贾斯汀个人博客备份。",
+    "keywords": "Gyoza,blog,Astro,theme,贾斯汀,博客",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "lxchapu",
-    "twitterId": "@lxchapu",
-    "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
+    "name": "",
+    "twitterId": "@Justin",
+    "avatar": "https://s2.loli.net/2025/05/26/6hEyVrQCnw2Bj53.png"
   },
   "hero": {
     "name": "Gyoza",
