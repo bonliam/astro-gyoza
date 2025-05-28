@@ -195,7 +195,7 @@ Gyoza 选择 font-class 的方式引用图标。这些图标大部分来源于 [
 
 下图展示了项目中的所有图标：
 
-![所有图标](./../../../../../../MediaOnline/图片备份/mbdT5HqYMEajyRG.webp)
+![所有图标](https://s2.loli.net/2024/05/08/mbdT5HqYMEajyRG.webp)
 
 当你在添加首页显示的社交账号时，你可能会想要使用这些图标。在对应的配置项中填写图标下面有 `icon-` 前缀的名称即可。
 
